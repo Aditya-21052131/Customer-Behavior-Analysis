@@ -34,6 +34,9 @@ Data Extraction and Cleaning
 The data is extracted from a local SQLite database and then cleaned using Pandas. Run the following code in the provided script to inspect and clean the data.
 
 # Results
+
 Action Distribution: Insights into how customers interact with products.
+
 Trends Over Time: Customer purchase patterns based on the time of day.
+
 Predictive Accuracy: The Random Forest model can be further refined, showing potential for behavioral prediction.
