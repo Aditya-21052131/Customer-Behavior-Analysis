@@ -15,7 +15,7 @@ Scikit-learn: Predictive modeling
 
 # Dataset
 
-A simulated dataset is created within the project, representing actions (like 'view' and 'purchase') taken by customers on different products. You can modify this dataset or connect it to a real customer behavior dataset.
+A simulated dataset is created within the project, representing actions (like 'view' and 'purchase') taken by customers on different products. 
 
 # Features
 
@@ -31,7 +31,7 @@ Predictive Modeling: Built a model to predict customer behavior (view/purchase).
 
 Data Extraction and Cleaning
 
-The data is extracted from a local SQLite database and then cleaned using Pandas. Run the following code in the provided script to inspect and clean the data.
+The data is extracted from a local SQLite database and then cleaned using Pandas. 
 
 # Results
 
